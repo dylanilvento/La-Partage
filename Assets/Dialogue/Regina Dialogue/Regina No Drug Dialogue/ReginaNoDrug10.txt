@@ -1,0 +1,23 @@
+Why are you so hostile all
+of a sudden?
+
+
+[Switch]
+It's frustrating to hear
+someone so scared to be here.
+
+
+Do you even want to be
+on this date?
+
+
+[Info]
+2
+Of course.
+<None>
+00, 100
+8
+I don't know.
+<None>
+00, 100
+9

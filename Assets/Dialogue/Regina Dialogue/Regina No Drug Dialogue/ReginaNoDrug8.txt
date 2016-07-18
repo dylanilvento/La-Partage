@@ -1,0 +1,26 @@
+Of course I want to be here.
+That's why I went on Le Reportoire.
+
+
+[Switch]
+La Partage.
+
+
+
+[Switch]
+Uh, right. That's what I meant.
+
+
+
+[Switch]
+Well that tells me all I need
+to know, so I'm not going to waste
+any more of your time tonight.
+
+Goodbye, Jack.
+
+
+
+[End]
+[Animation]
+4

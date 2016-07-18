@@ -1,0 +1,23 @@
+I think I made a mistake.
+
+
+
+[Switch]
+What's that?
+
+
+
+[Info]
+3
+My life.
+<None>
+00, 100
+16
+These drugs.
+<None>
+00, 100
+17
+This date.
+<None>
+00, 100
+18

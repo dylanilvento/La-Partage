@@ -1,0 +1,26 @@
+Why should I give a shit about
+your Goddamn date?
+
+
+[Choice]
+5
+Your food is why we're here.
+<None>
+08, 21
+30
+I need help. Isn't that enough?
+<None>
+00, 100
+38
+I don't know.
+<None>
+00, 100
+42
+So you can be helpful?
+<None>
+08, 21
+43
+I'll tell you why.
+<None>
+22, 26
+44

@@ -1,0 +1,14 @@
+Alright, sure.
+
+
+
+[Add Var]
+<Takes drugs>
+[Switch]
+Yeah, man! That's what I'm
+talking about! Here's a
+free sample, on the house.
+
+[End]
+[Animation]
+1

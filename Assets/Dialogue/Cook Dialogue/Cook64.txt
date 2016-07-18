@@ -1,0 +1,51 @@
+I see you’ve had a tough night…
+
+
+
+[Switch]
+No shit.
+
+
+
+[Switch]
+But do you really want to be
+here?
+
+
+Drinking yourself into oblivion?
+
+
+
+[Switch]
+It helpsh.
+
+
+
+[Switch]
+But it’s not going to make your
+job come back.
+
+
+Look at how my night’s going.
+
+
+
+Regina just disappeared on me.
+
+
+
+[Switch]
+Probably tryin’ to give you a hint.
+
+
+
+[Info]
+2
+No.
+<None>
+00, 100
+69
+Maybe.
+<None>
+70
+00, 100

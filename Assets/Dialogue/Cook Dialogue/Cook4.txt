@@ -1,0 +1,27 @@
+Why were you fired?
+
+
+
+[Switch]
+Oh, Cooper’sh been gunnin’ for 
+me for monthsh. Thinksh I’m not 
+good enough for this place. 
+
+Don’t have enough “couth,” 
+or whatever the fuck he callsh
+it.
+
+[Info]
+3
+Who?
+<None>
+00, 100
+3
+Why?
+<None>
+00, 100
+4
+Have you seen Regina?
+<None>
+00, 100
+5

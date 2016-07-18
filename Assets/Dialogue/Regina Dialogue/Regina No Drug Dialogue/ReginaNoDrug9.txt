@@ -1,0 +1,12 @@
+I don't know. I'm not sure what
+I want.
+
+
+[Switch]
+Well, I'll leave you here alone
+so you can figure it out.
+
+
+[End]
+[Animation]
+4

@@ -1,0 +1,23 @@
+Who's that?
+
+
+
+[Switch]
+That assh-hole Cooper,
+thinksh he'sh sho much
+better than me.
+
+[Info]
+3
+Who?
+<None>
+00, 100
+3
+Why?
+<None>
+00, 100
+4
+Have you seen Regina?
+<None>
+00, 100
+5

@@ -1,0 +1,14 @@
+The fuck you want?
+
+
+
+[Info]
+2
+Are you okay?
+<None>
+00, 100
+2
+Have you seen Regina?
+<None>
+00, 100
+5

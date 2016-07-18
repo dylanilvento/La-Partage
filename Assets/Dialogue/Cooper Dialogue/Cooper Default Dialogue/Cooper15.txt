@@ -1,0 +1,23 @@
+Dale surely contributes to your
+team, right?
+
+
+[Switch]
+If you call being late, rude,
+and drunk team contributions,
+then yeah.
+
+[Choice]
+3
+He just needs motivation.
+<None>
+00, 100
+16
+What about other contributions?
+<None>
+00, 100
+18
+Dale is right about you.
+<None>
+00, 100
+19

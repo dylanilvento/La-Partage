@@ -1,0 +1,18 @@
+Cause I think she's in immediate
+danger.
+
+
+[Switch]
+I think waiting until the police
+showed up would be the safer bet.
+
+
+[Choice]
+Are you willing to take that chance?
+<None>
+00, 100
+9
+Just cause you dislike Dale.
+<None>
+00, 100
+11

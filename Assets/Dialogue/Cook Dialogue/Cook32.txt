@@ -1,0 +1,23 @@
+I ordered a steak.
+
+
+
+[Switch]
+How’d you have it cooked?
+
+
+
+[Info]
+3
+Medium rare.
+<None>
+00, 100
+33
+Medium.
+<None>
+00, 100
+34
+Well done.
+<None>
+00, 100
+35

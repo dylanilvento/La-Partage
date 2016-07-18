@@ -1,0 +1,15 @@
+There isn't any time to talk to
+the police! She may be in a lot
+of danger!
+
+[Switch]
+What do you expect me to do?
+
+
+
+[Choice]
+1
+Talk to Cooper about rehiring Dale.
+<None>
+00, 100
+7

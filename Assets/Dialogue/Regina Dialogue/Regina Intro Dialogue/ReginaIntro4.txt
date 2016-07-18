@@ -1,0 +1,40 @@
+You haven’t been waiting long
+have you?
+
+
+Have you already placed an order?
+
+
+
+[Switch]
+The waiter stopped by, but I
+wanted to wait for you.
+
+
+[Switch]
+Oh... ok, thanks.
+
+
+
+[Info]
+5
+Am I late?
+<None>
+00, 100
+4
+What do you do?
+<None>
+00, 100
+5
+Why this restaurant?
+<None>
+00, 100
+21
+What are your interests?
+<None>
+00, 100
+34
+I gotta pee.
+<None>
+00, 100
+37

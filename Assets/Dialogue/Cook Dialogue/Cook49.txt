@@ -1,0 +1,26 @@
+Wanna shay that again?
+
+
+
+[Choice]
+5
+No.
+<None>
+00, 100
+50
+I'm sorry for that.
+<None>
+00, 100
+54
+If I have to.
+<None>
+08, 21
+58
+I wouldn't need to.
+<None>
+08, 21
+59
+Yes.
+<None>
+22, 26
+60

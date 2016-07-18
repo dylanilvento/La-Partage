@@ -1,0 +1,23 @@
+Are you sure?
+
+
+
+[Switch]
+Jack, I'd appreciate if you
+didn't push the point.
+
+
+Don't worry about it so much.
+
+
+
+[Info]
+2
+If you're sure.
+<None>
+00, 100
+14
+Alright.
+<None>
+00, 100
+15

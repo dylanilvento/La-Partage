@@ -1,0 +1,18 @@
+Uh... Okay. Where do you want
+to go?
+
+
+[Info]
+3
+The Park!
+<None>
+00, 100
+5
+Dancing!
+<None>
+00, 100
+7
+Anywhere with you.
+<None>
+00, 100
+8

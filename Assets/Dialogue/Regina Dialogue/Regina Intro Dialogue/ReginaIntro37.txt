@@ -1,0 +1,12 @@
+Excuse me; I have to use
+the bathroom.
+
+
+[Switch]
+Alrighty. I'll be here.
+
+
+
+[End]
+[Animation]
+3

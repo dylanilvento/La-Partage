@@ -1,0 +1,23 @@
+I’m just asking about where she went.
+
+
+
+You don’t have to do anything besides
+give me a direction.
+
+
+[Switch]
+And why should I do tha’?
+
+
+
+[Info]
+2
+Common decency?
+<None>
+00, 100
+68
+I need to fix my mistake.
+<None>
+00, 100
+7

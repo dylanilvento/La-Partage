@@ -1,0 +1,19 @@
+What made you pick this restaurant?
+
+
+
+[Switch]
+You picked it.
+
+
+
+[Info]
+2
+No I didn't.
+<None>
+00, 100
+22
+Oh, right.
+<None>
+00, 100
+31

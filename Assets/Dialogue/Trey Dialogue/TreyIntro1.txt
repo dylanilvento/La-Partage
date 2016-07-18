@@ -1,0 +1,29 @@
+[Switch]
+Hey man, need something to win
+big tonight?
+
+
+[Switch]
+Excuse me?
+
+
+
+[Switch]
+I got just what you need.
+
+
+
+With one of these, you're
+bound to have a great night.
+
+
+[Info]
+2
+What're you talking about?
+<None>
+00, 100
+2
+No thanks, I'm good.
+<None>
+00, 100
+15

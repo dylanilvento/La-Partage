@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 5ab1d68f93c694c0e94aefa50a13bf33
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - pillObject: {instanceID: 0}
+  - scoreFont: {fileID: 12800000, guid: 85eeb6fb002a54207b59d0e49d1f20ee, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

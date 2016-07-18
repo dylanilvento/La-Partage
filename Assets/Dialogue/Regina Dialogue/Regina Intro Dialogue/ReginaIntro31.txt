@@ -1,0 +1,19 @@
+Oh, right. Lucky's.
+It's been a while.
+
+
+[Switch]
+Do you know what you're going
+to get?
+
+
+[Info]
+2
+No idea.
+<None>
+00, 100
+32
+The usual.
+<None>
+00, 100
+33

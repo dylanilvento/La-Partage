@@ -1,0 +1,35 @@
+Tell me about you're friends.
+Who do you hang out with?
+
+
+[Switch]
+Well, most of my close friends
+are colleagues from work.
+
+
+[Switch]
+How many people is that?
+
+
+
+[Switch]
+Um, I don't know, maybe
+five or six?
+
+
+[Switch]
+I have one.
+
+
+
+One single, lonesome friend.
+Though he's not really a friend,
+more of a disembodied voice on
+the other end of the phone.
+[Switch]
+Um...
+
+
+
+[Link]
+10

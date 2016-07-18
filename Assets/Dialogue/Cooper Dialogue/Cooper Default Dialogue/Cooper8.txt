@@ -1,0 +1,23 @@
+It’s our first date.
+
+
+
+[Switch]
+Well, aren’t you a charmer?
+First date, and you’re already
+going full “knight in shining
+armor” on this girl.
+But I can’t rehire someone
+because of that.
+
+
+[Choice]
+2
+You don’t have to actually rehire him.
+<None>
+00, 100
+9
+One last chance.
+<None>
+00, 100
+11

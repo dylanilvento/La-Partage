@@ -1,0 +1,14 @@
+Hey there! Can I get you anything?
+
+
+
+[Info]
+2
+Have you seen Regina?
+<None>
+00, 100
+2
+Could you help me?
+<Talked to Cooper>
+00, 100
+3

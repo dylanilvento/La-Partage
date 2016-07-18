@@ -1,0 +1,18 @@
+Why? I don't think he's going
+to be very successful peddling his
+drugs in here, and even if he is,
+it's not our concern.
+[Switch]
+It's about civic duty, Jack.
+
+
+[Info]
+2
+I don't want to attract attention.
+<None>
+00, 100
+28
+Okay, I'll tell someone.
+<None>
+00, 100
+30

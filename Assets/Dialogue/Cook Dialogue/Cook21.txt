@@ -1,0 +1,23 @@
+What can fix your problem?
+
+
+
+[Switch]
+Thish. Want a shwig?
+
+
+
+[Choice]
+3
+Fine.
+<None>
+00, 100
+22
+I’ve made enough bad choices.
+<None>
+00, 100
+23
+Sure.
+<None>
+22, 26
+24

@@ -1,0 +1,26 @@
+Helping you with your
+problem ishn’t gonna fix mine.
+
+
+[Choice]
+5
+I'm sorry.
+<None>
+00, 100
+9
+And what will?
+<None>
+00, 100
+21
+It’s not all about you.
+<None>
+08, 21
+25
+Only you can fix your problem.
+<None>
+08, 21
+26
+It might.
+<None>
+22, 26
+27

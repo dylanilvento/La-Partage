@@ -1,0 +1,27 @@
+Complimentary adjectives?
+
+
+
+[Switch]
+Yeah, I put "shy," "quiet,"
+"polite," and I put a fancy
+one in there for good measure.
+
+"Ack..." Uh... "Acku..."
+
+
+
+[Info]
+3
+"Acquiescent"?
+<None>
+00, 100
+9
+"Acuminous"?
+<None>
+00, 100
+10
+"Acquisitive"?
+<None>
+00, 100
+11

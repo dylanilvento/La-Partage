@@ -1,0 +1,19 @@
+Great, let's get going!
+I'll get the check!
+
+
+[Switch]
+We didn't order anything for
+there to be a check, Jack.
+
+
+[Add Var]
+<Jack passes out at date>
+[Switch]
+Garçon!
+
+
+
+[End]
+[Animation]
+5

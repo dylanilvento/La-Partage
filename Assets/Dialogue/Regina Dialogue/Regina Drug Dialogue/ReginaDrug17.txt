@@ -1,0 +1,31 @@
+I think I... took something I
+shouldn't have.
+
+
+[Switch]
+Like you ate some bad food?
+
+
+
+[Switch]
+Yeah. Yeah, that must've been
+it.
+
+
+[Switch]
+Do you want to leave?
+
+
+
+[Switch]
+No, no. It'll pass.
+
+
+
+[Switch]
+Alright, well, let's get you're
+mind off of it.
+
+
+[Link]
+10

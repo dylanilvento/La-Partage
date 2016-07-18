@@ -1,0 +1,23 @@
+That’s no way to speak of
+someone you’ve never met.
+
+
+[Switch]
+Ha! Looksh like everyone
+tonight ish trying to give me
+a lesshon in mannersh.
+
+[Choice]
+3
+I'm not going to lecture you.
+<None>
+00, 100
+47
+You're just being difficult.
+<None>
+00, 100
+48
+Want any help?
+<None>
+22, 26
+61

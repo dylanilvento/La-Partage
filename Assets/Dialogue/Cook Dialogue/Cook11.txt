@@ -1,0 +1,22 @@
+With a little inshentive,
+I think I can find it in me
+to help you with your shtruggle.
+
+[Info]
+4
+How about twenty dollars?
+<None>
+00, 100
+12
+I have these pills.
+<None>
+00, 100
+14
+I’ll get your job back.
+<None>
+00, 100
+15
+I'm not giving you anything.
+<None>
+00, 100
+16

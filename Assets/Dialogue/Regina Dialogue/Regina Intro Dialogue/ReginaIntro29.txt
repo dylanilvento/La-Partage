@@ -1,0 +1,40 @@
+I'll let him know you think that.
+Maybe I can set you guys up
+if this doesn't work out
+
+[Switch]
+I'm sure Drew's a fine guy,
+but I wanted to go on this
+date with you, no matter who
+made the profile.
+[Switch]
+...
+
+
+
+Thanks.
+
+
+
+[Info]
+5
+Am I late?
+<None>
+00, 100
+4
+What do you do?
+<None>
+00, 100
+5
+Why this restaurant?
+<None>
+00, 100
+21
+What are your interests?
+<None>
+00, 100
+34
+I gotta pee.
+<None>
+00, 100
+37

@@ -1,0 +1,23 @@
+I think it's reprehensible that
+someone would choose to alter their
+state of mind willingly for
+whatever reason.
+[Switch]
+Don't you think you're being a bit
+judgemental about someone you've
+just met?
+
+You don't know anything about him.
+
+
+
+[Info]
+2
+I'm not judging him.
+<None>
+00, 100
+19
+I know all I need to.
+<None>
+00, 100
+24

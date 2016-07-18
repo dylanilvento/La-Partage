@@ -1,0 +1,24 @@
+Good evening, sir!
+How can I help you?
+
+
+[Switch]
+Hey, uh... I wanted to let you
+know that there was someone shady
+hanging out in the men's bathroom.
+
+[Add Var]
+<Spoke to manager about dealer>
+[Switch]
+Oh, really? I'll check it out.
+Thank you for letting me know.
+
+
+[Switch]
+Yeah, no problem.
+
+
+
+[End]
+[Animation]
+1

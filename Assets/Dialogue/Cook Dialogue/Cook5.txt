@@ -1,0 +1,65 @@
+Hey, I’m sorry to bother you,
+but I’m looking for a woman. 
+
+
+Light brown hair. Red blouse. 
+Have you seen someone like that?
+
+
+[Switch]
+I think I shaw shomeone like that
+out here, yeah.
+
+
+[Switch]
+Really? Can you tell me where
+she went?
+
+
+[Switch]
+No.
+
+
+
+[Switch]
+No?
+
+
+
+[Switch]
+The fuck I look like to you, 
+a tour guide? I got problemsh of
+my own. Loshing my job, among
+other problems.
+[Add Var]
+<Dale wants job back>
+I'm not here to keep track of
+shome bitch.
+
+
+[Choice]
+6
+Ignoring that.
+<None>
+00, 100
+6
+Why would you say that?
+<None>
+00, 100
+46
+I'll get out of your way once you tell me.
+<None>
+08, 21
+62
+Don’t talk about her like that.
+<None>
+08, 21
+63
+You can be better than this.
+<None>
+21, 21
+64
+No need to attack me.
+<None>
+22, 26
+65

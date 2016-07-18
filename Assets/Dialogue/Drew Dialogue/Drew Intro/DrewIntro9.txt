@@ -1,0 +1,27 @@
+"Acquiescent"?
+
+
+
+[Switch]
+Yeah! I think that was it!
+Sounds good, huh?
+
+
+[Switch]
+That means I'm easily persuadable.
+
+
+
+[Switch]
+Oh, well, uh...
+
+
+
+[Switch]
+So wish me luck on this date that
+you persuaded me to go on.
+
+
+[Link]
+[Switch]
+5

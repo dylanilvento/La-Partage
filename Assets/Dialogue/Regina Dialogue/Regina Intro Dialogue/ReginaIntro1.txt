@@ -1,0 +1,20 @@
+[Switch]
+Regina?
+
+
+
+[Switch]
+You must be Jack!
+It's very nice to meet you.
+
+
+[Info]
+2
+(Give flowers.)
+<Has flowers>
+00, 100
+2
+It's nice to meet you too.
+<None>
+00, 100
+3

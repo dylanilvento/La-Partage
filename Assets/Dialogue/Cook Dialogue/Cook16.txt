@@ -1,0 +1,31 @@
+Why should I have to give you
+something just so you can tell
+me one simple piece of
+information?
+[Switch]
+Caushe I bet you need to know
+sho badly that I can charge a
+premium.
+
+Sho what’sh it gonna be?
+
+
+
+[Info]
+4
+Here's twenty bucks.
+<None>
+00, 100
+12
+Take these pills, then.
+<None>
+00, 100
+14
+I'll talk to your boss.
+<None>
+00, 100
+15
+No.
+<None>
+00, 100
+17

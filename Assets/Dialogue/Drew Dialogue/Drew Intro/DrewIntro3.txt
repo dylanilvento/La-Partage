@@ -1,0 +1,22 @@
+Oh, I know you wanted it, 
+even if you won't admit it
+to yourself.
+
+It didn't take much effort from
+me to make it happen:
+
+
+a profile with a few complimentary
+adjectives and generic interests...
+I could be you if I really wanted.
+
+[Info]
+2
+Generic hobbies?
+<None>
+00, 100
+4
+Complimentary adjectives?
+<None>
+00, 100
+8

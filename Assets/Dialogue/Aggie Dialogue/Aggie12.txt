@@ -1,0 +1,25 @@
+I think I have something that
+may help.
+
+
+[Switch]
+Excuse me? What do you think
+you're going to get by offering
+me drugs?
+
+[Switch]
+I just wanted to help. They're
+anti-anxiety drugs. They can help
+deal with Cooper or Dale when
+they're bothering you .
+[Switch]
+...
+
+
+
+Alright, I'll try them out.
+
+
+
+[Link]
+10

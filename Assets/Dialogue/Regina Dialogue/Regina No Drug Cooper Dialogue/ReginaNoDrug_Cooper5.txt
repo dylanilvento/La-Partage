@@ -1,0 +1,34 @@
+Someone else would have seen
+him then. And why would someone
+try to sell drugs in a place
+like this anyway?
+[Jack]
+He wasn't selling them.
+
+
+
+[Regina]
+So he was just giving this
+stuff away? To you?
+
+
+[Jack]
+Yeah...
+
+
+
+[Regina]
+Y'know Jack, I don't know if
+you're trying to impress me or
+what, but lying is a bad way to
+go about it.
+[Info]
+2
+I'm not lying!
+<None>
+00, 100
+6
+It's the truth.
+<None>
+00, 100
+8

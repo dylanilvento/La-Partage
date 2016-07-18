@@ -1,0 +1,29 @@
+[Switch]
+Welcome back!
+
+
+
+[Switch]
+Thanks...
+
+
+
+[Switch]
+Everything alright?
+
+
+
+[Info]
+3
+Everything's fine.
+<None>
+00, 100
+2
+Just some creep in the bathroom.
+<None>
+00, 100
+16
+Yeah, how about you?
+<None>
+00, 100
+32

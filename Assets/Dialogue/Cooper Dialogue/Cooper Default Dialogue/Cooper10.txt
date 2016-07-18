@@ -1,0 +1,9 @@
+*Sigh*
+Alright then, let’s go talk to him.
+
+
+[Add Var]
+<Convinced Cooper to talk to Dale>
+[End]
+[Animation]
+4

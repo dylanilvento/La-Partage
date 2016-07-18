@@ -1,0 +1,37 @@
+We decided to have our first
+date here because of the menu.
+
+
+[Switch]
+My menu.
+
+
+
+[Switch]
+Your menu.
+
+
+
+[Switch]
+And what did you order from my menu?
+
+
+
+[Info]
+4
+Chicken parmesan.
+<None>
+00, 100
+31
+Steak.
+<None>
+00, 100
+32
+Salmon.
+<None>
+00, 100
+36
+I didn't get to order.
+<None>
+00, 100
+37

@@ -1,0 +1,16 @@
+You don't actually have to rehire
+him. He's drunk enough that he
+might forget about it all tomorrow.
+
+[Switch]
+So you want me to lie about
+giving him his job back so he
+can tell you something?
+
+[Switch]
+I expect you to help me find
+someone who might be in trouble.
+
+
+[Link]
+10

@@ -1,0 +1,23 @@
+Are you feeling alright?
+
+
+
+[Switch]
+No, I don't think so.
+
+
+
+[Switch]
+Take a second, okay? Here, let's get you some water.
+
+
+[Add Var]
+<Jack passes out at date>
+[Switch]
+Yeah. Yeah, okay.
+
+
+
+[End]
+[Animation]
+5

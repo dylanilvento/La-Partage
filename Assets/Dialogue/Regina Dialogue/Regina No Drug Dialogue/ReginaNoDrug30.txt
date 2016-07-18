@@ -1,0 +1,7 @@
+I'll go tell the manager.
+
+
+
+[Add Var]
+<Will talk to manager about drugs>
+[End]

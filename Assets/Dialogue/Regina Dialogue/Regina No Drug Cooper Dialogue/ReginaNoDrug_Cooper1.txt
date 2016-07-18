@@ -1,0 +1,46 @@
+[Multiple Characters]
+[Jack], [Regina], [Cooper]
+[Regina]
+How'd it go?
+
+
+
+[Jack]
+He said he'd go talk to him.
+
+
+
+[Animation]
+1
+[Cooper]
+I just wanted to let you folks
+know that I checked it out, and
+there didn't seem to be anyone in
+there.
+[Regina]
+That's good to hear. Thank you.
+
+
+
+[Cooper]
+Not a problem. You guys enjoy the
+rest of your evening.
+
+
+[Animation]
+2
+[Regina]
+Are you sure you saw someone?
+
+
+
+[Info]
+2
+What?
+<None>
+00, 100
+2
+Of course.
+<None>
+00, 100
+10

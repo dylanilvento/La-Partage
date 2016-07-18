@@ -1,0 +1,21 @@
+You seem to give a lot of preference
+to your bartender.
+
+
+You sure you're making the right
+decisions when your so distracted?
+
+
+[Switch]
+Excuse me?
+
+
+
+[Switch]
+I don't think you have Dale's or
+your patron's best interests
+at heart.
+
+[Link]
+[Switch]
+20

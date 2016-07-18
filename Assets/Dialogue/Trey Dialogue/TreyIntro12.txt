@@ -1,0 +1,33 @@
+And why should I trust you?
+You could be poisoning me for
+all I know.
+
+[Switch]
+If I were trying to poison you,
+there are plenty of people here who
+could help you get to a hospital.
+
+The lovely lady out there seems
+to care about you enough to
+make sure you'd be okay, in fact.
+
+[Switch]
+...
+
+
+
+[Switch]
+And if I'm right? Hell, you'll
+have the best night of your life.
+So what do you say?
+
+[Info]
+2
+Alright.
+<None>
+00, 100
+9
+No.
+<None>
+00, 100
+10

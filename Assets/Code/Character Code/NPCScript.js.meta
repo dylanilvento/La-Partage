@@ -1,0 +1,38 @@
+fileFormatVersion: 2
+guid: e9432f0fbd2204de1beab41e430ada2c
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - collidedWith: {instanceID: 0}
+  - interactionBox: {fileID: 400002, guid: 4b194c807f5e4486ba11251a4cc5f3db, type: 2}
+  - textbox: {fileID: 100000, guid: 2c822e90063e1404c8af9fbf6c62130d, type: 2}
+  - textboxTail: {fileID: 100000, guid: fc1e1f7dad8f34d8aae77d8075aa8351, type: 2}
+  - dialogueObject: {instanceID: 0}
+  - dialogueArrow: {instanceID: 0}
+  - dialogueStopSquare: {instanceID: 0}
+  - dialogueMenuArrow: {instanceID: 0}
+  - dialogueScrollbar: {instanceID: 0}
+  - interactionClone: {instanceID: 0}
+  - textboxClone: {instanceID: 0}
+  - textboxTailClone: {instanceID: 0}
+  - dialogueClone: {instanceID: 0}
+  - dialogueArrowClone: {instanceID: 0}
+  - dialogueMenuArrowClone: {instanceID: 0}
+  - dialogueStopSquareClone: {instanceID: 0}
+  - dialogueChoiceClone: {instanceID: 0}
+  - dialogueScrollbarClone: {instanceID: 0}
+  - dialogueBoxTexture: {fileID: 2800000, guid: e19c506d4cc2d473fae13eade6af13cf,
+      type: 3}
+  - dialogueArrowTexture: {instanceID: 0}
+  - dialogueSquareTexture: {instanceID: 0}
+  - dialogueFont: {fileID: 12800000, guid: 85eeb6fb002a54207b59d0e49d1f20ee, type: 3}
+  - jackScript: {instanceID: 0}
+  - jackInteractionScript: {instanceID: 0}
+  - drugScript: {instanceID: 0}
+  - menuScript: {instanceID: 0}
+  - cameraScript: {instanceID: 0}
+  - scrollbarScript: {instanceID: 0}
+  - scrollbarObject: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

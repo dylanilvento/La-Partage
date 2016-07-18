@@ -1,0 +1,55 @@
+Hey, uh… I wanted to know
+about the guy out behind
+the restaurant.
+
+[Switch]
+Who is it? Were they bothering
+you?
+
+
+[Switch]
+No… He said he used to work here,
+and he’d like his job back.
+
+
+[Switch]
+Ho boy. Talked to Dale, did you?
+Guy can’t even talk to me himself.
+
+
+[Add Var]
+<Talked to Cooper>
+Listen, I see you’re trying to help
+the guy, but he had to go.
+
+
+You can’t just show up to work drunk
+and expect to stick around.
+
+
+[Choice]
+6
+I’m trying to find Regina.
+<None>
+00, 100
+4
+Give him another chance.
+<None>
+00, 100
+26
+You need a cook.
+<None>
+08, 21
+27
+Dale is the foundation of this restaurant.
+<None>
+08, 21
+28
+I’m his parole officer.
+<None>
+21, 21
+29
+He’d still be a big help.
+<None>
+22, 26
+49

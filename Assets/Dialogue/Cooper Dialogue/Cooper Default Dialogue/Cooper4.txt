@@ -1,0 +1,31 @@
+I’m not just doing this for him.
+My date went missing,
+and he’s the only one who
+knows where she went.
+[Switch]
+Look bud, I can’t just rehire
+the guy because of something
+he promised you.
+
+Heck, he could be messing with you.
+Trust me; I know Dale.
+
+
+You sure this girl was interested
+in sticking around?
+
+
+[Choice]
+3
+I won't believe otherwise.
+<None>
+00, 100
+5
+I know Dale isn't lying.
+<None>
+00, 100
+24
+I know what I know.
+<None>
+22, 26
+25

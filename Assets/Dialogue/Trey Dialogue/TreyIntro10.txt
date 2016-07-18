@@ -1,0 +1,14 @@
+Sorry, I'm not interested.
+
+
+
+[Add Var]
+<Did not take drugs>
+[Switch]
+Suit yourself, man, but you're
+missing an opportunity.
+
+
+[End]
+[Animation]
+2

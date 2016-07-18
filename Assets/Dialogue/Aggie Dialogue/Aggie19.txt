@@ -1,0 +1,19 @@
+Could you ask Cooper to give Dale
+another chance at his job?
+
+
+[Switch]
+What? Why?
+
+
+
+[Choice]
+2
+My date is missing.
+<None>
+00, 100
+4
+Dale knows where Regina is.
+<None>
+00, 100
+7

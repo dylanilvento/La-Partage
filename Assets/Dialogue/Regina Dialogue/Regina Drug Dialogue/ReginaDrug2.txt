@@ -1,0 +1,33 @@
+Thanks!
+
+
+
+[Switch]
+You alright? You seem kind of
+on edge.
+
+
+[Switch]
+No, no. I'm fine.
+What were we talking about again?
+
+
+[Switch]
+Just the usual introductory stuff.
+Got any new topics?
+
+
+[Info]
+3
+Travel.
+<None>
+00, 100
+3
+People.
+<None>
+00, 100
+9
+Love.
+<None>
+00, 100
+13

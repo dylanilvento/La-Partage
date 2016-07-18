@@ -1,0 +1,33 @@
+[Switch]
+Hello, welcome to Lucky's,
+do you have a reservation?
+
+
+[Switch]
+Yeah, it's Jack. For two.
+
+
+
+[Switch]
+What's the last name?
+
+
+
+[Info]
+4
+Trowel.
+<None>
+00, 100
+2
+Mascle.
+<None>
+00, 100
+3
+Cory.
+<None>
+00, 100
+4
+Clover.
+<None>
+00, 100
+5

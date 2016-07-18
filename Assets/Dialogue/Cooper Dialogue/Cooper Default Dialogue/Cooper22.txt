@@ -1,0 +1,16 @@
+I'm a patron here too, and I demand
+you do something to help find her.
+
+
+[Switch]
+I'm sorry, bud. I can phone the
+police, but I am not promising
+Dale his job back so you can
+get some information.
+[Switch]
+But—
+
+
+
+[Link]
+17

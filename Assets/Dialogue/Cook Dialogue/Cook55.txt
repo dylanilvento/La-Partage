@@ -1,0 +1,25 @@
+I can help you if you let me
+know where she went.
+
+
+[Switch]
+How could you posshibly help me?
+
+
+
+[Switch]
+I can think of something.
+
+
+
+[Switch]
+Ha, inshpiring.
+
+
+
+…
+
+
+
+[Link]
+11

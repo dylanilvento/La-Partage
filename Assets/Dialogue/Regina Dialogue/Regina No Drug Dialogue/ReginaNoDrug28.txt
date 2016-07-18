@@ -1,0 +1,19 @@
+I don't want to cause a scene.
+It's not that big of a deal,
+really.
+
+[Switch]
+Jack, you saw someone plainly
+do something illegal, and you're
+not going to do anything about it?
+
+[Info]
+2
+No.
+<None>
+00, 100
+29
+Okay.
+<None>
+00, 100
+30

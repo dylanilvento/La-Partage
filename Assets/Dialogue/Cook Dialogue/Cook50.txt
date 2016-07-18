@@ -1,0 +1,37 @@
+No… no, I’m good.
+
+
+
+[Switch]
+That’sh what I thought.
+
+
+
+Now get the fuck outta here,
+you little prick.
+
+
+[Switch]
+No, wait. I still need your
+help finding out where Regina went.
+
+
+[Switch]
+Why should I help you?
+
+
+
+[Choice]
+3
+I don’t know.
+<None>
+00, 100
+51
+Because I need your help.
+<None>
+00, 100
+52
+Because you want to?
+<None>
+22, 26
+53

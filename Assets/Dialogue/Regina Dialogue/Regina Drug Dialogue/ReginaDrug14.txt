@@ -1,0 +1,22 @@
+Jack, I'm really not comfortable
+being here right now, so I'm
+going to go, okay?
+
+[Add Var]
+<Jack passes out at date>
+[Switch]
+W-what?
+
+
+
+No, please don't go.
+I'm sorry for what I said.
+
+
+Wait, I—
+
+
+
+[End]
+[Animation]
+5

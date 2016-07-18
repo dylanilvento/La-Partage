@@ -1,0 +1,14 @@
+You're gonna have a great time,
+dude. Trust me. You got flowers,
+right?
+
+[Info]
+2
+Flowers?
+<None>
+00, 100
+6
+Yeah?
+<None>
+00, 100
+7

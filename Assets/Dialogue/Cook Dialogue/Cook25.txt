@@ -1,0 +1,27 @@
+I’m not here to fix your problems.
+
+
+
+[Choice]
+That’sh a shame, becaushe I may be
+wiling to shcratch your back
+if you scratch mine.
+
+[Info]
+4
+How about twenty dollars?
+<None>
+00, 100
+12
+I have these pills.
+<None>
+00, 100
+14
+I’ll get your job back.
+<None>
+00, 100
+15
+I'm not giving you anything.
+<None>
+00, 100
+16

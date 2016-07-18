@@ -1,0 +1,19 @@
+[Multiple Characters]
+[Cooper], [Aggie]
+[Aggie]
+Hey, Cooper! Can you come
+give me a hand?
+
+
+[Cooper]
+Yes, ma’am. Be over in a second!
+
+
+
+Sir, I’m sorry, but I can’t do
+anything about Dale. He’s been
+given more than enough chances
+to fix his problems.
+[End]
+[Animation]
+5

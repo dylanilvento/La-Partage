@@ -1,0 +1,23 @@
+I’m sorry for what happened
+to you tonight, but that’s
+not why I’m here.
+
+[Switch]
+Typical, just another douchebag
+who’sh only concerned for himshelf.
+
+
+[Choice]
+3
+I guess you're right.
+<None>
+00, 100
+10
+I'm concerned about Regina.
+<None>
+00, 100
+18
+Himself plus one.
+<None>
+22, 26
+19

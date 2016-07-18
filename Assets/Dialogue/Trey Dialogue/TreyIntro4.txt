@@ -1,0 +1,19 @@
+I don't need your drugs.
+Thank you.
+
+
+[Switch]
+Yeah, you think so?
+
+
+
+[Info]
+2
+Yeah, I do.
+<None>
+00, 100
+5
+What's that supposed to mean?
+<None>
+00, 100
+13

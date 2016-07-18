@@ -1,0 +1,17 @@
+No thanks. I want at least
+a partially clear head in
+order to find her.
+
+[Switch]
+Fine by me, jusht leave me to
+my drinking then.
+
+
+[Switch]
+What do I have to do for you
+to help me?
+
+
+[Link]
+[Switch]
+11

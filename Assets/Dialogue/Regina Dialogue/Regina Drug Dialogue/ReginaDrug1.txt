@@ -1,0 +1,27 @@
+[Switch]
+Welcome back!
+
+
+
+[Info]
+5
+Thanks.
+<None>
+00, 100
+2
+I've made a mistake.
+<None>
+00, 100
+15
+Let's get out of here.
+<None>
+00, 100
+21
+Enjoying your evening?
+<None>
+00, 100
+22
+You look stunning.
+<None>
+00, 100
+23

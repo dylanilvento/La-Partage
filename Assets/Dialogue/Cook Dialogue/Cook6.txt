@@ -1,0 +1,23 @@
+Can you please tell me what
+happened to her?
+
+
+[Switch]
+Why’sh that? Need her to hold
+your hand?
+
+
+[Choice]
+3
+I need to know what went wrong.
+<None>
+00, 100
+7
+I need to make sure that she's okay.
+<None>
+00, 100
+28
+I need to make things right.
+<None>
+22, 26
+45

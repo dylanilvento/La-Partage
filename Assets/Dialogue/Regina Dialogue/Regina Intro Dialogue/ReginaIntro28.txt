@@ -1,0 +1,19 @@
+I guess so?
+
+
+
+[Switch]
+Well, your friend seemed
+interesting.
+
+
+[Info]
+2
+I'll let him know.
+<None>
+00, 100
+29
+He's not.
+<None>
+00, 100
+30

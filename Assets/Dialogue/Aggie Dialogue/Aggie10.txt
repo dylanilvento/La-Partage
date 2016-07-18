@@ -1,0 +1,71 @@
+[Multiple Characters]
+[Aggie], [Jack], [Cooper]
+[Aggie]
+...
+
+
+
+Hey, Cooper!
+
+
+
+[Cooper]
+Yes, ma’am.
+
+
+
+[Aggie]
+I was talking to your friend here.
+I'm sorry, I didn't get your name.
+
+
+[Jack]
+Jack.
+
+
+
+[Aggie]
+I was just talking to Jack here,
+and he was saying that we may have
+been a little harsh on Dale.
+
+[Cooper]
+Did he now...
+
+
+
+[Aggie]
+I think so too.
+
+
+
+[Cooper]
+What?
+
+
+
+[Aggie]
+Why don't we give him one more
+chance?
+
+
+[Cooper]
+I don't think that's a good idea,
+Aggie.
+
+
+[Aggie]
+C'mon, one more chance. I'd greatly
+appreciate it.
+
+
+[Add Var]
+<Convinced Cooper to talk to Dale>
+[Cooper]
+*Sigh*
+Alright then, let’s go talk to him.
+
+
+[End]
+[Animation]
+1

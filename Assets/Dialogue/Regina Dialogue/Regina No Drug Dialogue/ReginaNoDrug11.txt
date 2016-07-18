@@ -1,0 +1,19 @@
+Are you enjoying your evening
+so far?
+
+
+[Switch]
+Well, it's kinda hard to tell
+before we even put the drink orders
+yet, but I'm going to go with
+a preemptive "yes."
+[Info]
+2
+Oh, good.
+<None>
+00, 100
+12
+Are you sure?
+<None>
+00, 100
+13

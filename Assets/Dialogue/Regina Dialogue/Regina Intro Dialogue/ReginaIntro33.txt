@@ -1,0 +1,40 @@
+I guess I'll get my usual.
+
+
+
+[Switch]
+An omelette? You craving
+breakfast for dinner?
+
+
+[Switch]
+...
+
+
+
+Yes.
+
+
+
+[Info]
+5
+Am I late?
+<None>
+00, 100
+4
+What do you do?
+<None>
+00, 100
+5
+Why this restaurant?
+<None>
+00, 100
+21
+What are your interests?
+<None>
+00, 100
+34
+I gotta pee.
+<None>
+00, 100
+37

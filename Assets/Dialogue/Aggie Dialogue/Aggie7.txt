@@ -1,0 +1,23 @@
+Dale said he saw Regina right
+before she went missing, but he's
+not saying anything since he lost
+his job.
+Could you ask Cooper to give him
+another chance?
+
+
+[Switch]
+Why do you need me to
+speak to him?
+
+
+[Choice]
+2
+Cause she's in danger.
+<None>
+00, 100
+8
+Cause Cooper listens to you.
+<None>
+00, 100
+15

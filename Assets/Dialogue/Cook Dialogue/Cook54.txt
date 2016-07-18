@@ -1,0 +1,33 @@
+I’m sorry I said that.
+
+
+
+[Switch]
+Whatever.
+
+
+
+[Switch]
+I just really need some help
+making sure everything’s okay
+with Regina.
+
+[Switch]
+It’sh not all about you.
+Or your date. We’re all having
+shitty nights tonight.
+
+[Choice]
+3
+I can help you out.
+<None>
+00, 100
+55
+It’s about Regina, not me.
+<None>
+00, 100
+56
+Misery loves company.
+<None>
+00, 100
+57

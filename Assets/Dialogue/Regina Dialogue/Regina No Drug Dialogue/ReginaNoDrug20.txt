@@ -1,0 +1,26 @@
+I've known a few people in my life
+that have slipped into using or
+selling drugs.
+
+They're not bad people;
+they're just misguided.
+
+
+What they need is help.
+Sometimes, when the help comes,
+it comes too late.
+
+I've known a few where that's
+happened as well.
+
+
+[Info]
+2
+Regina, I'm sorry I said that.
+<None>
+00, 100
+21
+Are you surprised that happened?
+<None>
+00, 100
+23

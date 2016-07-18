@@ -1,0 +1,19 @@
+Yeah, I love doing what I do.
+
+
+
+[Switch]
+Never think about doing something
+different?
+
+
+[Info]
+2
+Never.
+<None>
+00, 100
+17
+Sometimes.
+<None>
+00, 100
+18

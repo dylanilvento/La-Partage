@@ -1,0 +1,13 @@
+I tried calling the police,
+but no one is answering.
+Can you please give me a hand?
+
+[Switch]
+What can I do?
+
+[Info]
+1
+Talk to Cooper about rehiring Dale.
+<None>
+00, 100
+7

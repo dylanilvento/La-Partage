@@ -1,0 +1,19 @@
+No, we can't let the police get
+involved.
+
+
+[Switch]
+Uh... I'm not sure if that's
+the best decision.
+
+
+[Choice]
+2
+All we need is Dale.
+<None>
+00, 100
+7
+I can take care of this.
+<None>
+00, 100
+16

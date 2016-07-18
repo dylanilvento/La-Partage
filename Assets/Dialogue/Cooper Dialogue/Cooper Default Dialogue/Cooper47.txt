@@ -1,0 +1,42 @@
+My, uh… responsibility is to
+support Dale’s assimilation
+back into society,
+not to inform his employer.
+Did you perform a proper
+background check when you
+hired him?
+
+[Switch]
+Well, of course we did.
+
+
+
+[Switch]
+Then you would know that Dale
+has a criminal record.
+
+
+[Switch]
+Well, I…
+
+
+
+I’ve only recently been working
+here, so Dale’s background must’ve
+been known by the previous manager.
+
+I didn’t know.
+
+
+
+[Switch]
+That’s fine. If he’s really that
+difficult to work with, then I can
+help him find other employment,
+but I would like him to continue to
+work here in the mean time.
+
+
+
+[Link]
+10

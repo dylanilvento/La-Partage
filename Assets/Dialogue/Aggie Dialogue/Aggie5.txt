@@ -1,0 +1,26 @@
+Oh my gosh!
+You need to call the police!
+
+
+[Choice]
+5
+I tried.
+<Called the police>
+00, 100
+6
+I can do this.
+<None>
+00, 100
+16
+Dale can help.
+<None>
+08, 21
+7
+There's no time!
+<None>
+08, 21
+17
+No cops!
+<None>
+22, 26
+18

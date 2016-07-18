@@ -1,0 +1,32 @@
+Well, it’s not as simple as
+letting him go. You see,
+I’m his parole officer.
+
+[Switch]
+Parole officer?
+
+
+
+[Switch]
+Yes, Dale is part of our…
+
+
+
+[Info]
+4
+Convict
+<None>
+00, 100
+30
+Christian
+<None>
+00, 100
+31
+Criminal
+<None>
+00, 100
+32
+Committed
+<None>
+00, 100
+33

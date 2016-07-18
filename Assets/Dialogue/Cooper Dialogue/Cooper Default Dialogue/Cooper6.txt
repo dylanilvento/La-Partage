@@ -1,0 +1,42 @@
+Look, this restaurant’s
+greatest asset is its employees.
+
+
+We’ve got a great serving staff.
+
+
+
+We’ve got our bartender Aggie,
+who does a fantastic job behind
+the bar by herself, even when it’s
+slammed.
+We also have plenty of other fantastic
+cooks in the kitchen.
+
+
+Dale needed to go; I had to think
+about the rest of the staff
+and our patrons.
+
+[Choice]
+5
+I’m thinking about Regina.
+<None>
+00, 100
+7
+I’m sure Dale contributes.
+<None>
+00, 100
+15
+You should only be concerned about one.
+<None>
+08, 21
+21
+I'm a patron too.
+<None>
+08, 21
+22
+Is Aggie your MVP?
+<None>
+22, 26
+23

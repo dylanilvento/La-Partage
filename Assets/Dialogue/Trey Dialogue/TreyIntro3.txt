@@ -1,0 +1,22 @@
+These? These guys are little bits
+of suave in a pill.
+
+
+It's like if the voices of
+Sean Connery, Johnny Cash,
+and Frank Sinatra were
+distilled into a capsule.
+With these, you'll be smooth
+talking to any guy or gal
+you want.
+
+[Info]
+2
+No. Thank you.
+<None>
+00, 100
+4
+Really?
+<None>
+00, 100
+14

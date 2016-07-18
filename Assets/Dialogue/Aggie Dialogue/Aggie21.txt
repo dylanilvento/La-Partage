@@ -1,0 +1,19 @@
+I've been talking to your manager,
+and he obviously likes you.
+I need you to tell him to rehire Dale.
+
+[Switch]
+What?
+
+
+
+[Choice]
+2
+Spoke too soon.
+<None>
+00, 100
+22
+Look, I need you're help.
+<None>
+00, 100
+23

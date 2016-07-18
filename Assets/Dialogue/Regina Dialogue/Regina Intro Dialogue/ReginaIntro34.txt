@@ -1,0 +1,47 @@
+What do you do on your off time?
+
+
+
+[Switch]
+I'm a student of history.
+
+
+
+[Switch]
+What time period?
+
+
+
+[Switch]
+Not so much a time period as a
+subject. I read a lot about
+alchemy.
+
+[Switch]
+Alchemy, huh?
+
+
+
+[Switch]
+Yeah, it's fascinating to learn
+about how people believed they
+could achieve whatever they wanted
+with the right combination.
+Transmute lead into gold,
+eternal life, love elixirs,
+all that.
+
+What about you? Have any interests
+beyond what's on your profile?
+Or is "reading" and "walking" 
+all you do?
+[Info]
+2
+That's pretty much it.
+<None>
+00, 100
+35
+I also run.
+<None>
+00, 100
+36

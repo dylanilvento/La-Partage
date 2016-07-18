@@ -1,0 +1,19 @@
+Really, I'm fine. I was just lost
+in thought.
+
+
+[Switch]
+What about?
+
+
+
+[Info]
+2
+Just trying to stay interesting.
+<None>
+00, 100
+5
+Are you enjoying your evening?
+<None>
+00, 100
+11

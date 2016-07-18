@@ -1,0 +1,14 @@
+With one of these, you'll be
+the most well-spoken man tonight.
+
+
+[Info]
+2
+Alright.
+<None>
+00, 100
+9
+No.
+<None>
+00, 100
+10

@@ -1,0 +1,27 @@
+I could really use your help.
+
+
+
+[Switch]
+Uh... sure, what do you need?
+
+
+
+[Choice]
+4
+Could you help me find Regina?
+<None>
+00, 100
+4
+Could you talk to Cooper for me?
+<None>
+00, 100
+19
+I messed up royally.
+<None>
+21, 21
+20
+You're my last chance at finding her.
+<None>
+22, 26
+21

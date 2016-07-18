@@ -1,0 +1,23 @@
+Hey, I’m looking for the woman
+I came here with. Did you see
+where she went?
+
+[Switch]
+Oh-ho! Gave you the slip, 
+did she?
+
+
+Yeah, I saw her head towards
+the other end of the restaurant.
+
+
+Maybe she went to get a breath
+of fresh air?
+
+
+[Switch]
+Yeah, maybe. Thanks.
+
+
+
+[End]

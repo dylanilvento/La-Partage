@@ -1,0 +1,19 @@
+It's not just weird; it's gross.
+Why would you try to sell that
+stuff to people, especially
+in a restaurant bathroom?
+[Switch]
+Well, I can see that you feel
+very strongly about this.
+
+
+[Info]
+2
+I do.
+<None>
+00, 100
+18
+Don't you?
+<None>
+00, 100
+25

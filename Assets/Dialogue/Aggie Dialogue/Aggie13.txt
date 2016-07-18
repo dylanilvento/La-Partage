@@ -1,0 +1,19 @@
+What if I gave you a really great
+tip as a thanks?
+
+
+[Switch]
+Whatever you give me isn't going to
+cover the amount of complaining
+I'm going to hear from Cooper
+before he would Dale again.
+[Choice]
+2
+How about these pills?
+<None>
+00, 100
+12
+Does Dale distract Cooper from you?
+<None>
+00, 100
+14

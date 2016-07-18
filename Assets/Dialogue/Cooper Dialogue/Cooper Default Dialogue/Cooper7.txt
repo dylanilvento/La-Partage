@@ -1,0 +1,31 @@
+And I’m trying to think about
+someone who may be in trouble.
+
+
+[Switch]
+I see that, but I think you may
+be exaggerating things.
+
+
+Someone may be pulling
+your strings.
+
+
+How long have you known this girl,
+anyways?
+
+
+[Choice]
+3
+It’s our first date.
+<None>
+00, 100
+8
+A while.
+<None>
+00, 100
+12
+Long enough.
+<None>
+22, 26
+14

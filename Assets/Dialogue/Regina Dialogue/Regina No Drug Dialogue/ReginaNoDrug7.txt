@@ -1,0 +1,23 @@
+I'm plenty confident in myself.
+
+
+
+[Switch]
+Sounds like you're more defensive
+than confident.
+
+
+It also sounds like you don't want
+to be on this date. Do you?
+
+
+[Info]
+2
+Of course.
+<None>
+00, 100
+8
+I don't know.
+<None>
+00, 100
+9

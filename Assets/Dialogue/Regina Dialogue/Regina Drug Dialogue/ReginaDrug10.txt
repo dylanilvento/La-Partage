@@ -1,0 +1,18 @@
+How about we talk about something else?
+
+
+
+[Info]
+3
+You're right.
+<None>
+00, 100
+11
+Why?
+<None>
+00, 100
+19
+Of course.
+<None>
+00, 100
+20

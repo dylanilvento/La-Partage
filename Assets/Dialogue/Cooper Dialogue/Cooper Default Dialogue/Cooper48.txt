@@ -1,0 +1,12 @@
+I didn't bring any of those
+credentials with me. This was
+going to be a casual check up.
+
+[Switch]
+Sorry, bud, but if you can't
+give me any proof you're who
+you say you are, then I'm not
+even going to consider rehiring Dale.
+[End]
+[Animation]
+5

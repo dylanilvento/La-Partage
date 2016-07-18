@@ -1,0 +1,19 @@
+Yeah, everything's fine.
+
+
+
+[Switch]
+Are you sure? You seem a little
+shell-shocked. Must've had quite
+an experience in the bathroom.
+
+[Info]
+2
+Heh, yeah.
+<None>
+00, 100
+3
+Just thinking.
+<None>
+00, 100
+31

@@ -1,0 +1,12 @@
+How about a walk in the park?
+
+
+
+[Switch]
+Alright, that sounds fun.
+Let's do that.
+
+
+[Link]
+[Switch]
+6

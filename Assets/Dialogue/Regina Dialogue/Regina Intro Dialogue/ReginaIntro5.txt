@@ -1,0 +1,31 @@
+What, uh, what do you do for
+a living again, Regina?
+
+
+[Switch]
+I work in operations for a
+mid-sized manufacturing company,
+mostly production and
+distribution.
+I don't want to bore you about it.
+
+
+
+What do you do?
+
+
+
+[Info]
+3
+I'm an accountant.
+<None>
+00, 100
+6
+I'm in sales.
+<None>
+00, 100
+19
+I work in human resources.
+<None>
+00, 100
+20

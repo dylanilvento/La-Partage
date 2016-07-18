@@ -1,0 +1,11 @@
+I do feel strongly about it.
+Don't you?
+
+
+[Switch]
+Yes, I do, but not the same way
+that you do.
+
+
+[Link]
+20

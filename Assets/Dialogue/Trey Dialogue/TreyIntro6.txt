@@ -1,0 +1,24 @@
+Look man, I can tell that you're
+a nice guy. So nice, in fact,
+I bet you rarely get what
+you deserve.
+[Switch]
+...
+
+
+
+[Switch]
+Wouldn't it be nice for a change?
+
+
+
+[Info]
+2
+Yeah...
+<None>
+00, 100
+7
+I'm fine the way I am, thanks.
+<None>
+00, 100
+11

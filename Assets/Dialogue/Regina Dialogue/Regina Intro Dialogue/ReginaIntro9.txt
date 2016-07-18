@@ -1,0 +1,32 @@
+Y'know, if an opening comes up at
+my job, I could let you know.
+
+
+[Switch]
+What, really?
+
+
+
+[Switch]
+Yeah, what would you be interested
+in doing?
+
+
+[Info]
+4
+Something interesting.
+<None>
+00, 100
+10
+Something fun.
+<None>
+00, 100
+12
+Something safe.
+<None>
+00, 100
+13
+Something smart.
+<None>
+00, 100
+14

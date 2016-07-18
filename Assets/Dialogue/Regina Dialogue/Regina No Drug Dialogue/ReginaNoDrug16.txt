@@ -1,0 +1,19 @@
+Yeah, there was just some weird guy
+in the bathroom trying
+to sell me drugs.
+
+[Switch]
+That is weird.
+
+
+
+[Info]
+2
+It's disgusting.
+<None>
+00, 100
+17
+Doesn't matter now.
+<None>
+00, 100
+26

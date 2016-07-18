@@ -1,0 +1,19 @@
+You're hot.
+
+
+
+[Switch]
+Uh... Thank you?
+
+
+
+[Info]
+2
+That wasn't what I meant to say.
+<None>
+00, 100
+24
+I'm so sorry!
+<None>
+00, 100
+25

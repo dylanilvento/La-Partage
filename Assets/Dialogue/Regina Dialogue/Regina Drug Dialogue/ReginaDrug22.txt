@@ -1,0 +1,21 @@
+Are you bored?
+
+
+
+[Switch]
+Excuse me?
+
+
+
+[Switch]
+Have I been boring you tonight? I have a tendency for doing that.
+
+
+
+[Switch]
+No, Jack, it's fine.
+
+
+
+[Link]
+10

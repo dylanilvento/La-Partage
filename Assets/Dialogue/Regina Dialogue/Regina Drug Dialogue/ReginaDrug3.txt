@@ -1,0 +1,21 @@
+Do you do any traveling?
+
+
+
+[Switch]
+Not really. Work keeps me
+staying here locally most of
+the time. How about you?
+
+[Switch]
+None whatsoever, but I want to
+go somewhere.
+
+
+Hell, let's just go enjoy town
+tonight. What do you say?
+
+
+[Link]
+[Switch]
+4

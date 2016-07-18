@@ -1,0 +1,50 @@
+[Multiple Characters]
+[Cook], [Cooper]
+[Cooper]
+Dale.
+
+
+
+[Cook]
+Zzzz… assh-ish-hole… zzz…
+
+
+
+[Cooper]
+Dale!
+
+
+
+[Cook]
+Snrk- wha? Whazzat?
+
+
+
+[Cooper]
+Wake up, Dale, and go sober up
+for tomorrow’s shift.
+
+
+[Cook]
+Huh?
+
+
+
+[Cooper]
+I’m giving you another chance.
+One more chance. Don't mess this up.
+
+
+[Cook]
+I don't know what to shay...
+
+
+
+[Cooper]
+Don't say anything that'll get you
+fired again, but you should probably
+thank your buddy here.
+
+[Add Var]
+<Got Dale's job back>
+[End]

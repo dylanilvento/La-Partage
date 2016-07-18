@@ -1,0 +1,18 @@
+It's just that the manager just
+went back there, and he saw no
+sign of this person.
+
+I didn't see anyone come out
+this way, did you?
+
+
+[Info]
+2
+There's a back way out of this restuarant.
+<None>
+00, 100
+4
+That doesn't mean he didn't exist.
+<None>
+00, 100
+9

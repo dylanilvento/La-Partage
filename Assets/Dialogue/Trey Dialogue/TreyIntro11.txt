@@ -1,0 +1,33 @@
+Despite what you think you know
+about me, I'm not so desperate
+as to want to take drugs just
+to get what I want.
+[Switch]
+Of course not, of course not,
+but there will always be people
+who will be difficult to speak to.
+
+And it would just be so much
+easier to get them to understand
+your point of view by removing
+some inhibitions.
+[Switch]
+And you think this drug will do
+that?
+
+
+[Switch]
+I know this drug does that.
+I'll give you a sample just
+to show how confident I am
+in my product.
+[Info]
+2
+And why should I trust you?
+<None>
+00, 100
+12
+No.
+<None>
+00, 100
+10

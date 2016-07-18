@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: f0c7ee06777094cbda504dfa43ad1735
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - npcScript: {instanceID: 0}
+  - collidedWith: {instanceID: 0}
+  - textboxTail: {fileID: 100000, guid: fc1e1f7dad8f34d8aae77d8075aa8351, type: 2}
+  - textboxTailClone: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

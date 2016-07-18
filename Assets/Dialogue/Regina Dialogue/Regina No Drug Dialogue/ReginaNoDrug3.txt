@@ -1,0 +1,24 @@
+Heh, yeah, it was quite a time
+in there. I thought the bathroom
+was dirty to begin with.
+
+[Switch]
+...
+
+
+
+[Switch]
+...
+
+
+
+[Info]
+2
+That was a bad joke.
+<None>
+00, 100
+4
+Are you enjoying your evening?
+<None>
+00, 100
+11

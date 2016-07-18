@@ -1,0 +1,31 @@
+I'm not sure yet.
+
+
+
+[Switch]
+Yeah, me neither. Nothing on
+the menu's catching my eye yet.
+
+
+[Info]
+5
+Am I late?
+<None>
+00, 100
+4
+What do you do?
+<None>
+00, 100
+5
+Why this restaurant?
+<None>
+00, 100
+21
+What are your interests?
+<None>
+00, 100
+34
+I gotta pee.
+<None>
+00, 100
+37

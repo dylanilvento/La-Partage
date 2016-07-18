@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d1f39b89d81a24505b72bb711ed2e0d9
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - phone: {fileID: 100000, guid: f6170cf06d7b249f2a99887a897558c3, type: 2}
+  - wallet: {fileID: 100000, guid: 5757989684b5847b881c433b093f8099, type: 2}
+  - watch: {fileID: 100000, guid: 381d8823468d746b29022a96fb05c50c, type: 2}
+  - hand: {fileID: 100000, guid: 26fb5457fcc5b42859691fe432af626f, type: 2}
+  - phoneClone: {instanceID: 0}
+  - walletClone: {instanceID: 0}
+  - watchClone: {instanceID: 0}
+  - handClone: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,24 @@
+Jack, would it kill you to be a
+bit more confident in yourself?
+
+
+[Switch]
+What?
+
+
+
+[Switch]
+Do you think this self-doubt
+attitude is appealing?
+Cause it isn't.
+
+[Info]
+2
+I'm confident in who I am.
+<None>
+00, 100
+7
+Why the hostility?
+<None>
+00, 100
+10

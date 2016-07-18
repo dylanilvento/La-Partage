@@ -1,0 +1,27 @@
+Don't let who Dale is jeopardize
+Regina's safety.
+
+
+[Switch]
+Look, between the long shifts and
+Cooper’s constant flirting, Dale
+getting fired makes things just
+a little less hectic.
+Why would I want him to come back?
+
+
+
+[Choice]
+3
+How about these pills?
+<None>
+00, 100
+12
+How about an extra tip tonight?
+<None>
+00, 100
+13
+Does Dale distract Cooper from you?
+<None>
+00, 100
+14

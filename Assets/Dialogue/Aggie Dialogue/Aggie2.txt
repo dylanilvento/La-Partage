@@ -1,0 +1,17 @@
+Did you happen to see the woman
+I was here with tonight?
+
+
+[Switch]
+No, I'm sorry. Maybe check
+with my manager, Cooper.
+He's right over there.
+
+[Switch]
+Alright, thanks.
+
+
+
+[End]
+[Animation]
+2

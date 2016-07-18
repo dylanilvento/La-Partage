@@ -1,0 +1,19 @@
+Doesn't really matter now.
+
+
+
+[Switch]
+Should we let someone know?
+Tell the manager? Call the police?
+
+
+[Info]
+2
+Why?
+<None>
+00, 100
+27
+I'll tell the manager.
+<None>
+00, 100
+30

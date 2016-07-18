@@ -1,0 +1,15 @@
+No, I can find her on my own.
+All I need is a little help.
+
+
+[Switch]
+What do you expect me to do?
+
+
+
+[Choice]
+1
+Talk to Cooper about rehiring Dale.
+<None>
+00, 100
+7

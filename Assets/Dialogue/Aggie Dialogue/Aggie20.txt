@@ -1,0 +1,52 @@
+I messed up so badly tonight.
+
+
+
+[Switch]
+What? What happened?
+
+
+
+[Switch]
+Regina, the person I came with
+tonight, is missing, and I have no
+idea what to do or who to turn to.
+
+[Switch]
+Can't you call her?
+
+
+
+[Switch]
+I don't have her number.
+
+
+
+There's nothing I can do.
+
+
+
+[Switch]
+Is there any way that I could help?
+
+
+
+[Switch]
+I know Dale knows something about what
+happened to her, but he's still upset
+about losing his job.
+
+Is there any way you could talk to
+Cooper about giving him another
+chance?
+
+[Switch]
+I don't know if I can do that.
+
+JACK:
+Please! I've already spoken to him,
+and it sounds like he respects you
+and listens to what you say.
+I just need help finding her.
+[Link]
+10

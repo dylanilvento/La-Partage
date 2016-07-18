@@ -1,0 +1,23 @@
+Don’t take your mistake out on me.
+
+
+
+You’re the one that made the
+decisions that cost you your job.
+
+
+[Switch]
+What?
+
+
+
+[Choice]
+2
+Uh…
+<None>
+00, 100
+66
+I mean…
+<None>
+00, 100
+67

@@ -1,0 +1,18 @@
+Do you enjoy it?
+
+
+
+[Info]
+3
+No.
+<None>
+00, 100
+8
+I guess.
+<None>
+00, 100
+15
+I love it.
+<None>
+00, 100
+16

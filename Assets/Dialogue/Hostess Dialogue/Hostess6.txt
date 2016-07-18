@@ -1,0 +1,11 @@
+Oh yes, here we are.
+
+
+
+The other member of your
+party has already arrived;
+I'll show you to your table.
+
+[End]
+[Animation]
+1

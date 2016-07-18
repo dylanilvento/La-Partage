@@ -1,0 +1,27 @@
+Are... are you alright?
+
+
+
+[Switch]
+Yeah, I'm fine. For shomeone
+who jusht lost their job.
+
+
+Fucking bloodshuckersh,
+don't care who they shtep on.
+
+
+[Info]
+3
+Who?
+<None>
+00, 100
+3
+Why?
+<None>
+00, 100
+4
+Have you seen Regina?
+<None>
+00, 100
+5

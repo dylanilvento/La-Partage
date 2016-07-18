@@ -1,0 +1,23 @@
+Uh... no, that was me.
+Drew just helped me set
+up the profile.
+
+[Switch]
+Ok, cause I wanted to tell
+you in person that I'm not
+okay with the pet names.
+
+"Sweetcheecks"?
+That's not appropriate.
+
+
+[Info]
+2
+Shit.
+<None>
+00, 100
+25
+That was Drew!
+<None>
+00, 100
+27
