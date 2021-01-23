@@ -8,7 +8,6 @@ var mipMapNum: int;
 
 var uvAnimationTileX = 4; //Here you can place the number of columns of your sheet. 
                           
- 
 var uvAnimationTileY = 2; //Here you can place the number of rows of your sheet. 
                           
 var framesPerSecond = 5.0;
