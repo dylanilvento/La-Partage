@@ -22,10 +22,10 @@ public class JackScript : MonoBehaviour
    
     public Texture dialogueBoxTexture;
  
-    bool xPos = false;
-    bool xNeg = false;
-    bool zPos = false;
-    bool zNeg = false;
+    public bool xPos = false;
+    public bool xNeg = false;
+    public bool zPos = false;
+    public bool zNeg = false;
 
     bool stopLeftMov = false;
     bool stopRightMov = false;
