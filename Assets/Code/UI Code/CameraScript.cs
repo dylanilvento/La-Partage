@@ -43,7 +43,7 @@ public class CameraScript : MonoBehaviour
     }
 
     //change axis string to enum
-    public void  CenterCamera(float position, string axis)
+    public IEnumerator CenterCamera(float position, string axis)
     {
 
         stopFollow = true;
@@ -52,34 +52,53 @@ public class CameraScript : MonoBehaviour
         {
             while (transform.position.x > position)
             {
-                transform.position.x -= 0.1;
-                yield WaitForSeconds(0.01);
+                transform.position = new Vector3 (transform.position.x - 0.1f, transform.position.y, transform.position.z);
+                yield return new WaitForSeconds(0.01f);
             }
         }
         else if (axis == "x" && target.GetComponent<JackScript>().xNeg)
         {
             while (transform.position.x < position)
             {
-                transform.position.x += 0.1;
-                yield WaitForSeconds(0.01);
+                transform.position = new Vector3(transform.position.x + 0.1f, transform.position.y, transform.position.z);
+                yield return new WaitForSeconds(0.01f);
             }
         }
-        else if (axis == "z" && target.GetComponent(JackScript).zPos)
+        else if (axis == "z" && target.GetComponent<JackScript>().zPos)
         {
             while (transform.position.z > position)
             {
-                transform.position.z -= 0.1;
-                yield WaitForSeconds(0.01);
+                transform.position = new Vector3(transform.position.x, transform.position.y, transform.position.z - 0.1f);
+                yield return new WaitForSeconds(0.01f);
             }
         }
-        else if (axis == "z" && target.GetComponent(JackScript).zNeg)
+        else if (axis == "z" && target.GetComponent<JackScript>().zNeg)
         {
             while (transform.position.z < position)
             {
-                transform.position.z += 0.1;
-                yield WaitForSeconds(0.01);
+                transform.position = new Vector3(transform.position.x, transform.position.y, transform.position.z + 0.1f);
+                yield return new WaitForSeconds(0.01f);
             }
         }
 
     }
+
+    public void SetStopFollow(bool val)
+    {
+        stopFollow = val;
+    }
+
+    public void SetStopFollow(bool val, int flag)
+    {
+        relativePos = target.transform.position - transform.position;
+        stopFollow = val;
+        stopFollowX = val;
+    }
+
+    public void SetStopFollowX(bool val)
+    {
+        stopFollow = val;  //Makes it so camera doesn't follow any axis
+        stopFollowX = val;  //Then switches it so camera continues to follow y and z
+    }
+
 }
